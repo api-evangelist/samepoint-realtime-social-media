@@ -1,0 +1,41 @@
+{
+    "name": "Samepoint Real-Time Social Media",
+    "description": "http:\/\/t.co\/HlIvIx7kkv will look for the social entries about fatherhood to share.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/467-samepoint-real-time-social-media.jpg",
+    "tags": [
+        "have api",
+        "monitoringsocial",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/samepoint-realtime-social-media\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Samepoint Real-Time Social Media",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/467-samepoint-real-time-social-media.jpg",
+            "humanURL": "http:\/\/api.samepoint.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/samepoint-realtime-social-media-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/api.samepoint.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/socialfathers"
+        }
+    ]
+}
